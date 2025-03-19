@@ -16,7 +16,7 @@ A simple bash script to monitor the MariaDB service. The script checks if MariaD
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/<your-username>/mariadb-monitor.git
+    git clone https://github.com/rick001/mariadb-monitor.git
     cd mariadb-monitor
     ```
 
